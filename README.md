@@ -5,3 +5,4 @@ If you are using Github Desktop or another desktop app, it may not automatically
 
 ## Github command line authentication
 To access the Saudi ADHD Society's private Github repositories from the command line, you have several options, depending on whether you prefer to use Github CLI (gh) or prefer to stick with native git, as well as depending on whether you mind authenticating every time you use it or prefer to cache your credentials securely.
+[See instructions](github-authentication.md)
